@@ -153,7 +153,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 58276ca9802f41040a7529a707a7b8ec, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  startMatrixTarget: {x: 2.051209, y: 0, z: -0.57910615}
   startMatrix:
     e00: 0.34742498
     e01: -2.2057433
@@ -189,23 +188,23 @@ MonoBehaviour:
     e32: 0
     e33: 1
   changeMatrix:
-    e00: 0.11128577
-    e01: -3.9352448
-    e02: -1.798445
-    e03: 1.8297741
-    e10: -0.67768604
-    e11: 1.349054
-    e12: -4.0283403
+    e00: 0.08604998
+    e01: -3.9925115
+    e02: -1.9812714
+    e03: 1.790739
+    e10: -0.6124481
+    e11: 1.5580525
+    e12: -4.1657295
     e13: 0
-    e20: 1.4429703
-    e21: 0.93707466
-    e22: -1.7531948
-    e23: 2.3353734
+    e20: 1.475181
+    e21: 0.87974375
+    e22: -1.6139065
+    e23: 2.4442081
     e30: 0
     e31: 0
     e32: 0
     e33: 1
-  interpolationFactor: 0.531
+  interpolationFactor: 0.513
   interpolateRotation: 1
   interpolateScale: 1
   interpolateTranslation: 1
@@ -221,8 +220,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 81d27c72da2cd454c973e83cb185a8cf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  radius: 0.084
-  tipHeight: 0.219
+  radius: 0.109
+  tipHeight: 0.287
   layer: 0
   camera: {fileID: 0}
 --- !u!4 &470486150
